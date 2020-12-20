@@ -1,0 +1,9 @@
+doc
+
+DebugConfig
+Listings
+Objects
+RTE
+*.uvguix.*
+*.uvoptx
+*.uvprojx
